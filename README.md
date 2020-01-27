@@ -1,6 +1,5 @@
-# RDN
 
-# Google / Udacity React Developer Nanodegree
+# Udacity React Developer Nanodegree
 List of projects developed during the course.
 
 ## Projects
