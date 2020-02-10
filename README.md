@@ -6,7 +6,8 @@ List of projects developed during the course.
 
 | Projects                    | Date         |
 | ----------------------------|------------------|
-| [📚 MyReads: A Book Tracking App](https://github.com/evatsv/reactnd-project-myreads-starter)   |2019  |
+| [📚 MyReads: A Book Tracking App](https://github.com/evatsv/reactnd-project-myreads-starter)   |2020  |
+| [   Mobile Flashcards/ UdaciCards Mobile App](https://github.com/evatsv/reactnd-project-myreads-starter)   |2020  |
 
 
 
